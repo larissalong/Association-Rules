@@ -3,7 +3,7 @@
 """
 Created on Sun Jan  5 16:44:43 2020
 
-@author: qingqinglong
+@author: larissalong
 """
 
 #!pip install apyori
